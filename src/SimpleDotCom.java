@@ -28,5 +28,4 @@ public class SimpleDotCom {
         System.out.println(result);
         return result;
     }
-
 }
